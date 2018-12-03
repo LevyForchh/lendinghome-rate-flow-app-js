@@ -31,3 +31,6 @@ npm start
 That's it, navigate to the URL shown in you console. You can now edit files and see your changes reflected in the browser (this project has hot reload on by default)
 
 
+## Tests
+
+A very basic test harness is provided with no pre-existing test. Try to add a test.
